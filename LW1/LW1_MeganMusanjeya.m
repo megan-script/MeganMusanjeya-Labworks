@@ -28,4 +28,4 @@ elem_b = A(2:3, 1:2);
 elem_c = A([1, 3], [1, 3]);     
 
 v_mod = v(1:3); 
-A_concatenated = [A; v_mod];
+A_concatenated = [A; v_mod]
